@@ -99,32 +99,6 @@ Calculate the average lead time for each supplier and identify suppliers with le
 🏆 Top 5 Shipping Carriers by Cost Efficiency:
 Determine the top 5 shipping carriers with the lowest average shipping costs per product shipped.
 
-Excel Analysis:-
-----------------
-![Excel](https://github.com/Harpreetk01/sample/assets/122088124/2a9ae76d-b8b3-45d8-918c-f4a3500159f3)
-
-Excel Analysis Summary for Supply Chain Capstone Project
-
-Create an Excel dashboard for your supply chain capstone project and visualize key insights from your supply chain dataset.
-
-📊 Visualizing Key Insights
-
-From the overall analysis, I have discovered some key insights:
-
-💰 Skincare products are the most profitable, generating significant revenue. Haircare products come next in popularity, followed by cosmetics.
-
-🚚 Carrier C has the highest shipping costs on average, with carrier A as the second-costliest option. Carrier B, on the other hand, is the most affordable choice.
-
-🛳️ Among the four transportation modes (air, rail, road, and sea), air transportation is associated with higher shipping costs, while sea transportation offers a more economical solution.
-
-📈 The top locations for product sales are Kolkata and Delhi, closely followed by Mumbai and Chennai, each with a substantial number of products sold. In contrast, Bangalore reports the lowest number of products sold.
-
-❌ Among the three types of products, haircare exhibits the highest defect rate at 37%, followed by skincare and cosmetics.
-
-💼 The manufacturing cost of skincare products is higher than that of haircare and cosmetics.
-
-This Excel dashboard provides a concise overview of the supply chain dataset, making it easier to understand and make data-driven decisions.
-
 
 Power BI:-
 -----------
